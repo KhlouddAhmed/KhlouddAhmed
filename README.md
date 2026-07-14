@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khloud Ahmed</h1>
-<h3 align="center">Frontend Developer | Angular Specialist | AI Integration Enthusiast</h3>
+<h3 align="center"> Full-Stack .NET Developer | Frontend Focused | AI Integration Enthusiast</h3>
 <p align="center">
   Passionate about building scalable, signal-first Angular applications with clean architecture, RTL-native Arabic interfaces, and AI-powered user experiences.
 </p>
@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Graduated from the **Information Technology Institute (ITI)**, specializing in *[YOUR_TRACK]*
+- 🎓 Graduated from the **Information Technology Institute (ITI)**, specializing in *.NET*
 - 💻 Building modern frontends with **Angular 22** — signal-first, zoneless, selectorless architecture
 - 🤖 Experienced in integrating **AI-powered UIs** including LLM-based search, RAG, and agentic systems
 - 🌍 Specialized in **Arabic-first RTL** interfaces for the Egyptian and MENA market
@@ -48,7 +48,7 @@
 ### [فايض | FAYED](https://github.com/KhlouddAhmed/Fayed-Frontend)
 > AI-powered B2B marketplace for Egyptian manufacturers to buy and sell industrial surplus
 
-- Sole frontend engineer on a 5-person team
+- Lead frontend engineer on a 5-person team
 - Angular 22 · NgRx SignalStore · Bootstrap 5 RTL · SignalR · .NET 9
 - Features: KYB onboarding, AI prompt search, real-time chat, escrow payments, dispute resolution
 
@@ -67,6 +67,19 @@
 
 ---
 
+## 🎓 Education & Training
+
+| Institute | Track | Period |
+|---|---|---|
+| **ITI – Information Technology Institute** | Full-Stack .NET Developer | May 2026 – Jul 2026 |
+| **NTI – Creativa Benha** | MEAN Stack Developer | Jul 2025 – Oct 2025 |
+
+**ITI Focus:** ASP.NET Core, Web API, Angular, SQL Server, Clean Architecture, Agile
+
+**NTI Focus:** MongoDB, Express.js, Angular, Node.js
+
+---
+
 ## 📈 Current Focus
 
 - Deepening expertise in **Angular 22** signal-first patterns and zoneless architecture
@@ -79,7 +92,6 @@
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/khloud-ahmed/
 - 📧 **Email:** khloud.ahmed.mahmoud@gmail.com
-
 
 ---
 
