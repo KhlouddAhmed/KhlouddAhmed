@@ -2,9 +2,11 @@
 <h3 align="center"> Full-Stack .NET Developer | Frontend Focused | AI Integration Enthusiast</h3>
 <p align="center">
   Passionate about building scalable, signal-first Angular applications with clean architecture, RTL-native Arabic interfaces, and AI-powered user experiences.
+  
 </p>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhlouddAhmed&label=Profile%20Views&color=155DFC&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ## 👩‍💻 About Me
 
