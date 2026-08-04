@@ -73,7 +73,7 @@
 
 | Institute | Track | Period |
 |---|---|---|
-| **ITI – Information Technology Institute** | Full-Stack .NET Developer | May 2026 – Jul 2026 |
+| **ITI – Information Technology Institute** | Full-Stack .NET Developer | Jan 2026 – Jul 2026 |
 | **NTI – Creativa Benha** | MEAN Stack Developer | Jul 2025 – Oct 2025 |
 
 **ITI Focus:** ASP.NET Core, Web API, Angular, SQL Server, Clean Architecture, Agile
