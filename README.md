@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khloud Ahmed</h1>
-<h3 align="center"> Full-Stack .NET Developer | Frontend Focused | AI Integration Enthusiast</h3>
+<h3 align="center"> Full-Stack Developer | Frontend Focused </h3>
 <p align="center">
   Passionate about building scalable, signal-first Angular applications with clean architecture, RTL-native Arabic interfaces, and AI-powered user experiences.
   
@@ -54,17 +54,17 @@
 - Angular 22 · NgRx SignalStore · Bootstrap 5 RTL · SignalR · .NET 9
 - Features: KYB onboarding, AI prompt search, real-time chat, escrow payments, dispute resolution
 
-### [Furniro](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### [Furniro](https://github.com/khlouddAhmed/furnio)
 > Furniture e-commerce platform with dynamic filtering and shopping cart
 
 - Angular 18 · Bootstrap · TypeScript
 
-### [Ecommerce Platform](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### [Ecommerce Platform](https://github.com/KhlouddAhmed/Full-Stack-Ecommerce-Store)
 > Full e-commerce solution with product management and checkout flow
 
 - Angular · Bootstrap · TypeScript
 
-### [Portfolio](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### [Portfolio](https://github.com/KhlouddAhmed/Portfolio-project)
 > Personal portfolio showcasing projects and skills
 
 ---
@@ -98,5 +98,5 @@
 ---
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and don't hesitate to reach out!
+  Don't hesitate to reach out!
 </p>
