@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khloud Ahmed</h1>
-<h3 align="center"> Full-Stack Developer | Frontend Focused </h3>
+<h3 align="center"> Full-Stack Developer | Frontend Focused | NTI and ITI Graduate </h3>
 <p align="center">
   Passionate about building scalable, signal-first Angular applications with clean architecture, RTL-native Arabic interfaces, and AI-powered user experiences.
   
