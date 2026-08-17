@@ -1,7 +1,11 @@
 <h1 align="center">Hi👋, I'm Khloud Ahmed</h1>
 <h3 align="center">Full-Stack Developer | Frontend Focused | NTI and ITI Graduate</h3>
 <p align="center">
-  Passionate about building scalable, signal-first Angular applications with clean architecture, RTL-native Arabic interfaces, and AI-powered user experiences.
+  Full-Stack developer with a strong frontend focus. I build scalable Angular applications
+using signal-first, zoneless architecture — grounded in clean architecture, SOLID principles,
+and design patterns on both ends of the stack. I'm drawn to the intersection of clean
+engineering and AI-powered experiences, from RAG pipelines to agentic workflows embedded
+in real products.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhlouddAhmed&label=Profile%20Views&color=155DFC&style=for-the-badge" alt="Profile Views" />
