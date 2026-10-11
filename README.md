@@ -216,33 +216,6 @@ in real products.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhlouddAhmed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhlouddAhmed&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KhlouddAhmed&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Current Focus
-- Deepening expertise in **Angular 22** signal-first patterns and zoneless architecture
-- Building production-ready **AI-integrated frontends**
-- Mastering **performance optimization** — Core Web Vitals, lazy loading, OnPush
-
----
-
-## Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/khloud-ahmed/
-- **Email:** khloud.ahmed.mahmoud@gmail.com
-
----
-
 <p align="center">
   Don't hesitate to reach out!
 </p>
