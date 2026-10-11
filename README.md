@@ -88,7 +88,7 @@ in real products.
 
 ## Featured Projects
 
-<h3 align="center">Flagship</h3>
+<h3 align="center">Most Recent</h3>
 
 <table align="center">
   <!-- Row 1: Title -->
