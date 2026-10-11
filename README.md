@@ -158,7 +158,8 @@ in real products.
   <!-- Row 3: Links -->
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/KhlouddAhmed/Taskly">Repository</a>
+      <a href="https://github.com/KhlouddAhmed/Taskly">Client</a> ·
+      <a href="https://github.com/mahmoud-taha-dev/tasks-management-training">API</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/KhlouddAhmed/ecommerceclient">Client</a> ·
