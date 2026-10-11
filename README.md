@@ -91,17 +91,21 @@ in real products.
 <h3 align="center">Flagship</h3>
 
 <table align="center">
+  <!-- Row 1: Title -->
   <tr>
-    <td>
-      <h3><a href="https://github.com/KhlouddAhmed/Fayed-Frontend">Fayed</a></h3>
-      <p><i>AI-powered B2B marketplace for Egyptian manufacturers to buy and sell industrial surplus</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NgRx_SignalStore-BA2BD2?style=flat-square&logo=ngrx&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap_5_RTL-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
+    <td valign="top">
+      <h3>Fayed</h3>
+    </td>
+  </tr>
+  <!-- Row 2: Description -->
+  <tr>
+    <td valign="top">
+      <i>FAYED is an AI-powered B2B marketplace connecting Egyptian manufacturers to buy and sell surplus raw materials and production by-products. Features KYB verification, AI prompt search, real-time chat, and escrow payments. Built with Angular 22, .NET 9, NgRx SignalStore and fully RTL Arabic-first.</i>
+    </td>
+  </tr>
+  <!-- Row 3: Highlights -->
+  <tr>
+    <td valign="top">
       <ul>
         <li>Lead frontend engineer on a 5-person team</li>
         <li>KYB onboarding, AI prompt search, real-time chat</li>
@@ -109,56 +113,106 @@ in real products.
       </ul>
     </td>
   </tr>
+  <!-- Row 4: Links -->
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/KhlouddAhmed/fayed-frontend">Frontend</a> ·
+      <a href="https://github.com/kareemwally/ITI-Graduation-Project">Backend</a>
+    </td>
+  </tr>
+  <!-- Row 5: Badges -->
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NgRx_SignalStore-BA2BD2?style=flat-square&logo=ngrx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap_5_RTL-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 <h3 align="center">More Projects</h3>
 
 <table align="center">
+  <!-- Row 1: Titles -->
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KhlouddAhmed/Taskly">Taskly</a></h3>
-      <p><i>Project management system for organizing tasks, teams, and workflows</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3>Full-Stack E-Commerce</h3>
-      <p><i>Full e-commerce solution with product management and checkout flow</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
-      <p>
-        <a href="https://github.com/KhlouddAhmed/ECommerceClient">Client</a> ·
-        <a href="https://github.com/KhlouddAhmed/ECommerceAPI">API</a>
-      </p>
     </td>
   </tr>
+  <!-- Row 2: Descriptions -->
+  <tr>
+    <td width="50%" valign="top">
+      <i>Task management web app built with Angular, TypeScript, and Tailwind CSS. Initialized with pnpm, ESLint, Prettier, and a scalable folder structure as part of a frontend mentorship program.</i>
+    </td>
+    <td width="50%" valign="top">
+      <i>Full-stack E-Commerce and Inventory Management System. Features role-based access control, authentication, order management, and dashboards.</i>
+    </td>
+  </tr>
+  <!-- Row 3: Links -->
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KhlouddAhmed/Taskly">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KhlouddAhmed/ecommerceclient">Client</a> ·
+      <a href="https://github.com/KhlouddAhmed/ecommerceapi">API</a>
+    </td>
+  </tr>
+  <!-- Row 4: Badges -->
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+
+  <!-- Row 5: Titles -->
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/khlouddAhmed/furnio">Furniro</a></h3>
-      <p><i>Furniture e-commerce platform with dynamic filtering and shopping cart</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular_18-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/KhlouddAhmed/Portfolio-project">Portfolio</a></h3>
-      <p><i>Personal portfolio showcasing projects and skills</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
+    </td>
+  </tr>
+  <!-- Row 6: Descriptions -->
+  <tr>
+    <td width="50%" valign="top">
+      <i>Furniture e-commerce platform with dynamic filtering and shopping cart</i>
+    </td>
+    <td width="50%" valign="top">
+      <i>Personal portfolio showcasing projects and skills</i>
+    </td>
+  </tr>
+  <!-- Row 7: Badges -->
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Angular_18-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
     </td>
   </tr>
 </table>
 
----
 ---
 
 ## GitHub Stats
