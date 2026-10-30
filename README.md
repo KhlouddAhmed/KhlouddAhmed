@@ -78,7 +78,9 @@ in real products.
 | Institute | Track | Period |
 |---|---|---|
 | **ITI – Information Technology Institute** | Full-Stack .NET Developer | Jan 2026 – Jul 2026 |
-| **NTI – Creativa Benha** | MEAN Stack Developer | Jul 2025 – Oct 2025 |
+| **NTI – National Telecommunication Institute** | MEAN Stack Developer | Jul 2025 – Oct 2025 |
+| **ALX – AiCE** | AI Career Essentials | Jul 2024 – Oct 2024 |
+| **DEPI – Digital Egypt Pioneers Initiative** | Frontend Developer | April 2024 – Dec 2024 |
 
 **ITI Focus:** ASP.NET Core, Web API, Angular, SQL Server, Clean Architecture, Agile
 
